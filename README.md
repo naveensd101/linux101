@@ -9,7 +9,7 @@
  - `vim <direcotry-name>` Opens Vim explorer.
 
 
-### Network:
+## Network:
  - `ifconfig` => shows the network adapter details 
  - `iwconfig` => ifconfig but for wireless adapters
  - `arp -a` => Associates ip addresses with MAC addresses.
