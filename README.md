@@ -16,3 +16,10 @@
  - `arp -a` => Associates ip addresses with MAC addresses.
  - `netstat -ano` => shows all the ports that are open and what is connected to them.
  - `route` => shows our routing table
+
+## Copying files
+
+ - `rsync /from/path /to/path`
+ - `-P` => progress bar
+ - `-r` => recursive for dirctories
+
