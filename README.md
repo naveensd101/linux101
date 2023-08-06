@@ -14,6 +14,7 @@
 ## Network:
 
  - `ifconfig` => shows the network adapter details
+ -  `ip a` => kinda does the same thing ifconfig does
  - `iwconfig` => ifconfig but for wireless adapters
  - `arp -a` => Associates ip addresses with MAC addresses.
  - `netstat -ano` => shows all the ports that are open and what is connected to them.
